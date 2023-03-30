@@ -1,0 +1,7 @@
+/* Ignore Node Folder */
+
+node_modules
+
+/*Ignore vscode file */
+
+.vscode
